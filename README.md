@@ -1,5 +1,5 @@
 ## Pumpfun Smart Contract ⚓
-Pump.fun smart contract that works just like pump.fun site, like pump.fun, this smart contract creates the pool on contract, and make users to buy and sell from the pool.
+Pumpfun smart contract that works just like pump.fun site, like pumpfun, this pumpfun smart contract creates the pool on contract, and make users to buy and sell from the pool.
 And at some point, it can go to Raydium under some predefined condition
 
 
