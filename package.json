@@ -1,9 +1,27 @@
 {
     "product": "Pumpfun Smart Contract",
+    "version": "1.0.0",
+    "description": "Pumpfun Smart Contract",
+    "main": "dist/index.js",
+    "type": "module",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/earthzeta/pumpfun-contract.git"
+    },
     "author": "Earthzeta",
     "scripts": {
         "lint:fix": "prettier */*.js \"*/**/*{.js,.ts}\" -w",
         "lint": "prettier */*.js \"*/**/*{.js,.ts}\" --check"
+    },
+    "keywords": [
+        "pumpfun",
+        "smart",
+        "contract"
+    ],
+    "homepage": "https://github.com/earthzeta/pumpfun-contract",
+    "bugs": {
+        "url": "https://github.com/earthzeta/pumpfun-contract/issues"
     },
     "dependencies": {
         "@coral-xyz/anchor": "^0.29.0",
